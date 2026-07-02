@@ -39,11 +39,11 @@ type macro struct {
 type macroKind int
 
 const (
-	macroValue macroKind = iota // value(...) — type + preds, no presence coercion
-	macroFilled                 // filled(...) — value + implicit filled? predicate
-	macroMaybe                  // maybe(...) — nil passes through, else value(...)
-	macroArray                  // array(:elem, preds) [do member end]
-	macroHash                   // hash do ... end / schema do ... end
+	macroValue  macroKind = iota // value(...) — type + preds, no presence coercion
+	macroFilled                  // filled(...) — value + implicit filled? predicate
+	macroMaybe                   // maybe(...) — nil passes through, else value(...)
+	macroArray                   // array(:elem, preds) [do member end]
+	macroHash                    // hash do ... end / schema do ... end
 )
 
 // Params starts a Params-namespace schema (form-string coercion — the default
