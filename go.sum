@@ -4,3 +4,5 @@ github.com/go-ruby-dry-types/dry-types v0.0.0-20260717064401-2277b3319f9b h1:qBG
 github.com/go-ruby-dry-types/dry-types v0.0.0-20260717064401-2277b3319f9b/go.mod h1:S+2r7EA5zp4E8JyaJ88koD8gT7k/JD9i8NGj6V6jIRM=
 github.com/go-ruby-dry-types/dry-types v0.0.0-20260917093022-4ace620129fe h1:1V04Ed0BQYqWITmnMZvlJB5wEyKGFx2Nk4DlI+cEdXQ=
 github.com/go-ruby-dry-types/dry-types v0.0.0-20260917093022-4ace620129fe/go.mod h1:S+2r7EA5zp4E8JyaJ88koD8gT7k/JD9i8NGj6V6jIRM=
+github.com/go-ruby-dry-types/dry-types v0.0.0-20261005010723-dabe453c07ee h1:mvHe16jCZygR1CYfszYoMdOBdtBM1Z957nFtW9L6plQ=
+github.com/go-ruby-dry-types/dry-types v0.0.0-20261005010723-dabe453c07ee/go.mod h1:/e8xqfg8qX+nVnHyyb9OEntI1L8TmJsl1pVMmfELAfM=
